@@ -7,7 +7,7 @@
   "bugs": "https://github.com/WebDevTmas/moment-round/issues",
   "license": "CC-BY-SA-3.0",
   "author": "Thomas Vanderhaeghen <info@tmas.me> (http://www.tmas.me)",
-  "main": "./dist/moment-round",
+  "main": "./src/moment-round",
   "directories": {
     "lib": "./lib"
   },
